@@ -1,0 +1,12 @@
+# Keep one keyword or phrase per line for matching and prompting.
+
+system design
+distributed systems
+cloud architecture
+api design
+python
+typescript
+aws
+postgresql
+observability
+technical leadership

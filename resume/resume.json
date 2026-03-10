@@ -1,0 +1,64 @@
+{
+  "basics": {
+    "name": "Travis Hayes",
+    "title": "<Your Current Role or Target Role>",
+    "location": "<City, State/Country>",
+    "email": "<your.email@example.com>",
+    "links": [
+      {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/in/<your-handle>"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/<your-handle>"
+      }
+    ]
+  },
+  "summary": "<2-4 sentence professional summary>",
+  "experience": [
+    {
+      "company": "<Company Name>",
+      "role": "<Title>",
+      "location": "<City, State/Country>",
+      "startDate": "YYYY-MM",
+      "endDate": "Present",
+      "highlights": [
+        "<Impact statement with metric>",
+        "<Ownership/leadership statement>",
+        "<Technical implementation statement>"
+      ],
+      "technologies": ["<Tech1>", "<Tech2>"]
+    }
+  ],
+  "projects": [
+    {
+      "name": "<Project Name>",
+      "url": "https://<project-url>",
+      "description": "<What it does and why it matters>",
+      "highlights": ["<Outcome>", "<Technical detail>"],
+      "technologies": ["<Tech1>", "<Tech2>"]
+    }
+  ],
+  "skills": {
+    "languages": ["<Language1>", "<Language2>"],
+    "frameworks": ["<Framework1>", "<Framework2>"],
+    "platforms": ["<Platform1>", "<Platform2>"],
+    "tools": ["<Tool1>", "<Tool2>"]
+  },
+  "education": [
+    {
+      "institution": "<School>",
+      "degree": "<Degree>",
+      "field": "<Field>",
+      "graduation": "YYYY"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "<Certification Name>",
+      "issuer": "<Issuer>",
+      "date": "YYYY-MM"
+    }
+  ]
+}

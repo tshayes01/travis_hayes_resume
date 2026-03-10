@@ -1,0 +1,15 @@
+name: Validate Resume Data
+
+on:
+  pull_request:
+  push:
+    branches: [ main, master ]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate resume JSON
+        run: |
+          python -m json.tool resume/resume.json > /dev/null
